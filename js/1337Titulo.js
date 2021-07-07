@@ -1,7 +1,7 @@
 var rev = "fwd";
 function titlebar(val){
     var msg  = "1337";
-    var res = "";
+    var res = " ";
     var speed = 500;
     var pos = val;
     msg = ""+msg+"";
