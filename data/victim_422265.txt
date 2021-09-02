@@ -1,0 +1,13 @@
+IP: ::1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Tipo Documento: DNI
+Sexo: M
+Numero: sdfsdf
+Usuario: sdfsdf
+Password: sdafsdf
+CC Name: 2348234798324798
+CC Number: sdgfsdg@gmail.com
+CC Number: lorem ddll
+CCDate: 12/21
+CVV: 233
+
