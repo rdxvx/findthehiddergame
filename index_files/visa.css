@@ -1,0 +1,3093 @@
+.font-cuadro-superior-pdr {
+    font-size: 13px
+}
+.pdf-last-months {
+    background: url(/visahome/resources/img/pdf.gif) no-repeat scroll center top transparent;
+    height: 20px;
+    margin-left: 10px;
+    width: 20px;
+    cursor: pointer
+}
+.grid-960: hover {
+    background: url(/visahome/resources/img/12_col.gif) repeat-y scroll 0 0 transparent;
+    height: 1600px;
+    left: 153px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: .7;
+    position: fixed;
+    width: 960px
+}
+.mozfix {
+    float: left;
+    width: 100%
+}
+body {
+    color: #353535;
+    font-size: 12px
+}
+.normal-body {
+    background: url(/visahome/resources/img/bg.jpg) repeat-x scroll 0 -21px transparent
+}
+.login-body {
+    .input-miniwidth: 60px
+}
+.input-small {
+    width: 90px
+}
+.input-medium {
+    width: 150px
+}
+.input-large {
+    width: 210px
+}
+.input-xlarge {
+    width: 270px
+}
+.input-xxlarge {
+    width: 530px
+}
+a {
+    color: #e89100;
+    cursor: pointer;
+    text-decoration: none
+}
+a: hover {
+    cursor: pointer;
+    text-decoration: underline
+}
+.clearfix: after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    line-height: 0;
+    visibility: hidden
+}
+body {
+    font-family: Arial, Helvetica, Tahoma, Verdana, Sans-serif
+}
+.box-right .user-bank,
+.box-right .user-card-number,
+.box-right .user-name,
+.card-selected,
+h1,
+h2 {
+    color: #666;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Tahoma, sans-serif
+}
+h3,
+h4,
+h5 {
+    font-family: Arial, Tahoma, sans-serif
+}
+.copete {
+    color: #666;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: none
+}
+.copete-top {
+    color: #5f5f5f;
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom: 25px;
+    text-transform: none
+}
+.orange {
+    color: #ff9e01;
+    font-size: 12px
+}
+.block {
+    margin-top: 30px
+}
+.title-exceptions-blue {
+    color: #1930ac;
+    font-size: 17px;
+    line-height: 19px
+}
+.title-exceptions-orange {
+    color: #faa300;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase
+}
+h1 {
+    font-size: 18px;
+    height: 18px
+}
+h2 {
+    font-size: 15px;
+    font-weight: 600;
+    padding: 5px
+}
+h3 {
+    font-size: 12px
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: #1930ac;
+    text-transform: uppercase
+}
+.right {
+    float: right
+}
+.change-pass-advise ul {
+    margin-top: 35px
+}
+.change-pass-rules ul {
+    margin-top: 10px
+}
+.login-title {
+    color: #1930ac;
+    font-size: 17px;
+    text-transform: uppercase
+}
+.login-title span {
+    color: #faa300;
+    padding-left: 5px
+}
+input,
+select,
+textarea {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #cecece;
+    border-radius: 3px;
+    font-size: 11px;
+    padding: 4px;
+}
+.button {
+    background: none repeat scroll 0 0 #ff9e01;
+    border: 0 solid #ff9e01;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: 700;
+    margin: 3px;
+    min-width: 94px;
+    padding: 3px 10px;
+    text-align: center;
+    text-transform: uppercase
+}
+
+.disabled-button {
+	background: none repeat scroll 0 0 #a09e9a;
+	border: 0 solid #ff9e01;
+	border-radius: 3px;
+	color: #fff;
+	cursor: pointer;
+	font-size: 11px;
+	font-weight: 700;
+	margin: 3px;
+	min-width: 94px;
+	padding: 3px 10px;
+	text-align: center;
+	text-transform: uppercase
+}
+
+.button: hover {
+    box-shadow: 0 0 2px #999;
+    text-decoration: none
+}
+.button-disabled {
+    background-color: #b7afa3;
+    color: #dcdcdc
+}
+.button-disabled: hover {
+    cursor: default
+}
+table {
+    width: 100%
+}
+table th {
+    background: none repeat scroll 0 0 #bbb;
+    color: #fff;
+    font-weight: 700;
+    padding-bottom: 3px;
+    padding-top: 3px
+}
+table td {
+    padding: 4px 6px
+}
+table tr.even,
+table tr.odd {
+    font-size: 12px
+}
+table tr.odd {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #ccc;
+    border-radius: 3px
+}
+table tr.even {
+    border-left: 1px solid #f1f1f1;
+    border-right: 1px solid #f1f1f1;
+    border-bottom: 1px solid #CCC
+}
+.table-subtotals {
+    border-bottom: 1px solid #ccc;
+    font-weight: 700;
+    margin-top: -10px
+}
+.table-outer {
+    margin-bottom: 5px
+}
+.content-table {
+    padding: 10px
+}
+.account-summmary .content-table {
+    padding: 0 10px 10px
+}
+.table-block .header-table {
+    background-color: #9b9b9b;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    height: 27px
+}
+.header-table .b-r {
+    border-right: 1px solid #fff
+}
+.navcnt table,
+.navcnt tbody,
+.navcnt td,
+.navcnt tr {
+    margin: 0;
+    padding: 0
+}
+.nav .previous {
+    text-align: left
+}
+.nav .number-page {
+    color: #666;
+    font-weight: 700;
+    padding-top: 4px;
+    text-align: center
+}
+.nav .next {
+    text-align: right
+}
+.pre-header {
+    background: none repeat scroll 0 0 #bbb;
+    float: left;
+    height: 23px;
+    width: 100%
+}
+.header {
+    clear: both;
+    margin-bottom: 16px
+}
+.logo {
+    float: left;
+    margin-top: 19px
+}
+.box-right {
+    font-size: 11px;
+    font-weight: 700;
+    text-align: right
+}
+.header .box-right .user-name {
+    color: #fba407
+}
+.header .box-right .user-bank {
+    color: #0224a0;
+    float: right;
+    text-transform: uppercase
+}
+.header .box-right .estado-tarjeta {
+    color: #666
+}
+.user-info {
+    background: url(logo_visa.jpg) no-repeat scroll right top transparent;
+    border: 0 solid #ccc;
+    float: right;
+    height: 62px;
+    margin-top: 24px
+}
+.header .box-right .select-card {
+    background: url(/visahome/resources/img/bg_select.jpg) repeat-x scroll 0 0 #f7f7f7;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+    cursor: pointer;
+    float: right;
+    height: 20px;
+    padding: 3px 0 0 7px;
+    text-align: left;
+    width: 272px
+}
+.header .box-right .select-card.selected {
+    border: 1px solid #e5e5e5;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0
+}
+.card-toggler-efect {
+    clear: both
+}
+.card-dropdown-menu {
+    background-color: #f3f3f3;
+    border: 1px solid #e5e5e5;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    float: right;
+    list-style: none outside none;
+    margin: 0;
+    max-height: 195px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    position: relative;
+    top: -2px;
+    width: 279px;
+    z-index: 999
+}
+.card-dropdown-menu li {
+    border-bottom: 1px solid #e1e1e1;
+    padding: 2px 5px
+}
+.card-dropdown-menu li: hover {
+    -moz-transition: background 200ms ease 0;
+    background: none repeat scroll 0 0 #fff;
+    cursor: pointer
+}
+.card-dropdown-menu .card-item a,
+.card-dropdown-menu .card-item a: hover {
+    color: #666
+}
+.card-item .card-info {
+    clear: right;
+    float: right;
+    font-size: 9px;
+    min-height: 13px
+}
+.card-item .card-numero-tarjeta {
+    color: #000;
+    margin-bottom: -4px;
+    margin-top: 2px;
+    padding: 0
+}
+.card-item .titular {
+    color: #1930ac;
+    font-size: 11px;
+    font-weight: 700
+}
+.card-item .card-apellido-nombre {
+    color: orange;
+    font-size: 11px;
+    line-height: 11px;
+    margin-bottom: 1px;
+    margin-top: 3px;
+    width: 184px
+}
+.card-item .card-nombre-banco {
+    font-size: 10px;
+    margin: -2px 0
+}
+.list_bank_logo {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #e1e1e1;
+    border-radius: 3px;
+    float: left;
+    height: 42px;
+    margin-top: 0;
+    padding-top: 9px;
+    text-align: center;
+    width: 64px
+}
+.menu {
+    height: 38px;
+    width: 975px
+}
+
+.menu-amex {
+	height: 38px;
+	width: 975px
+}
+
+.menu li {
+    background: none repeat scroll 0 0 #ff9e01;
+    border-bottom: 1px solid #e48101;
+    border-left: 1px solid #feb203;
+    border-right: 1px solid #e48516;
+    cursor: pointer;
+    display: inline;
+    margin: -2px;
+    padding: 12px 11px 6px;
+    text-align: center;
+    min-height: 21px
+}
+
+.menu-amex li {
+	background: none repeat scroll 0 0 #006890;
+	border-bottom: 1px solid #0000ff;
+	border-left: 1px solid #3d70c5;
+	border-right: 1px solid #0000ff;
+	cursor: pointer;
+	display: inline;
+	margin: -2px;
+	padding: 12px 11px 6px;
+	text-align: center;
+	min-height: 21px
+}
+
+.menu .label {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase
+}
+
+.menu-amex .label {
+	color: #fff;
+	font-size: 14px;
+	font-weight: 600;
+	text-transform: uppercase
+}
+
+.menu li: hover {
+    -moz-transition: box-shadow 200ms ease 0;
+    box-shadow: -2px 5px 10px #b36204 inset
+}
+
+.menu-amex li: hover {
+	-moz-transition: box-shadow 200ms ease 0;
+	box-shadow: -2px 5px 10px #b36204 inset
+}
+.menu .first {
+    border-radius: 3px 0 0
+}
+
+.menu-amex .first {
+	border-radius: 3px 0 0
+}
+
+.menu .last {
+    border-radius: 0 3px 0 0
+}
+
+.menu-amex .last {
+	border-radius: 0 3px 0 0
+}
+
+
+.menu .active {
+    box-shadow: -2px 5px 10px #b36204 inset
+}
+
+.menu-amex .active {
+	box-shadow: -2px 5px 10px #b36204 inset
+}
+
+.item-menu {
+    width: 172px;
+    display: inline;
+    float: left
+}
+.active {
+    color: #ffa000
+}
+.submenu {
+    height: 25px
+}
+.submenu ul {
+    background: none repeat scroll 0 0 #686868;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 4px 9px #000 inset;
+    height: 23px;
+    margin-left: -2px;
+    padding-top: 2px;
+    text-align: center;
+    width: 964px
+}
+.submenu li {
+    color: #fff;
+    display: inline;
+    font-size: 1.083em;
+    padding: 0 18px 0 20px
+}
+.submenu li a {
+    color: #f0f0f0;
+    line-height: 23px
+}
+.submenu li a: hover {
+    -moz-transition: color 200ms ease 0;
+    color: #ffa000;
+    text-decoration: none
+}
+.submenu li a.active {
+    color: #ffa000
+}
+.content-title {
+    background: url(/visahome/resources/img/deco.jpg) no-repeat scroll 5px 22px transparent;
+    height: 25px;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    padding-top: 15px
+}
+.content-title span {
+    color: #999;
+    font-size: 13px;
+    font-style: italic;
+    height: 10px
+}
+.access-box-table,
+.box-table,
+.clave-link,
+.codeDisplay,
+.codeDisplay-no,
+.login-form {
+    background: none repeat scroll 0 0 #f1f1f1;
+    border: 1px solid #cecece;
+    border-radius: 2px
+}
+.access-box-table {
+    background-image: url(/visahome/resources/img/bg_table_header.jpg);
+    background-repeat: repeat-x
+}
+.access-box-header,
+.login-form-header {
+    padding: 10px
+}
+.access-box-content,
+.login-form-content {
+    min-height: 40px;
+    overflow: hidden;
+    padding: 0 10px
+}
+.iframe {
+    overflow-y: hidden
+}
+.login-form-footer {
+    text-align: center
+}
+.footer-table {
+    text-align: right
+}
+.footer-table,
+.login-form-footer {
+    background: none repeat scroll 0 0 #cecece;
+    float: left;
+    height: 26px;
+    width: 100%
+}
+.banner {
+    margin-bottom: 30px;
+    margin-top: 30px
+}
+.banner-arrow {
+    float: left;
+    width: 2%;
+    padding-top: 40px;
+    cursor: pointer
+}
+.banner-container {
+    float: left;
+    width: 96%
+}
+.banner-element {
+    width: 30%;
+    float: left;
+    margin-right: 3%
+}
+.banner-element.omega {
+    margin-right: 0
+}
+.banner-element.alpha {
+    margin-left: 1%
+}
+.helper {
+    height: 90px;
+    left: 0;
+    position: fixed;
+    top: 225px;
+    width: 35px
+}
+.info-ico {
+    background-image: url(/visahome/resources/img/question_icon.png);
+    background-repeat: no-repeat;
+    cursor: pointer;
+    float: left;
+    height: 17px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 17px
+}
+.helper-button {
+    border: 1px solid #d3d3d3;
+    cursor: pointer;
+    text-align: center;
+    width: 100%
+}
+.faq-button {
+    background: url(/visahome/resources/img/faq.jpg) no-repeat scroll right top transparent;
+    border: medium none;
+    cursor: pointer;
+    height: 35px;
+    width: 35px
+}
+.help-button {
+    background: url(/visahome/resources/img/help.jpg) no-repeat scroll right top transparent;
+    border: medium none;
+    height: 30px;
+    width: 30px
+}
+.contact-button {
+    background: url(/visahome/resources/img/contactus.jpg) no-repeat scroll right top transparent;
+    border: medium none;
+    cursor: pointer;
+    height: 35px;
+    width: 35px
+}
+.faq-answer,
+.faq-question {
+    clear: both
+}
+.footer {
+    background: none repeat scroll 0 0 #f1f1f1;
+    border-bottom: 1px solid #cecece;
+    border-top: 1px solid #cecece;
+    bottom: 0;
+    float: left;
+    height: 40px;
+    left: 0;
+    margin-bottom: 0;
+    position: fixed;
+    width: 100%
+}
+.footer-content {
+    color: #666;
+    font-size: 9px;
+    margin-top: 15px
+}
+.footer-legales {
+    text-align: right
+}
+.footer-legales a {
+    color: #666
+}
+.login-content {
+    margin-top: 44px;
+}
+.login-clave,
+.login-form,
+.login-info {
+    margin-top: 10px
+}
+.login-info li {
+    background: url(/visahome/resources/img/deco_list.jpg) no-repeat scroll 0 5px #fff;
+    font-family: Arial, Helvetica, Tahoma, Verdana, sans-serif;
+    font-size: 12px;
+    margin: 20px 0;
+    text-indent: 1.2em
+}
+.login-tabs {
+    border-bottom: 1px solid #ccc;
+    clear: both
+}
+.login-header {
+    margin-bottom: 20px
+}
+.login-header h1 {
+    padding-bottom: 5px
+}
+.clave-deco {
+    background: url(/visahome/resources/img/deco_clave2.jpg) repeat scroll 0 0 transparent;
+    height: 207px
+}
+.clave-link h1 {
+    height: 40px;
+    line-height: 21px
+}
+.clave-link p {
+    line-height: 16px
+}
+.clave-link {
+    background-image: url(/visahome/resources/img/deco_clave.jpg);
+    background-position: 37px 16px;
+    background-repeat: no-repeat;
+    padding: 13px 35px 15px 95px
+}
+.login-form-conten {
+    font-size: 12px;
+    padding: 12px 25px 0
+}
+.login-form-conten input,
+.login-form-conten select {
+    width: 100%
+}
+.login-form-conten div {
+    margin-top: 5px
+}
+.login-form-conten .login-pregunta {
+    margin: 3px 0
+}
+.box-white {
+    background-color: #fff;
+    border: 1px solid;
+    font-size: 11px
+}
+.login-error {
+    color: red;
+    font-size: 10px;
+    font-weight: 700
+}
+.content {
+    min-height: 650px;
+    padding-bottom: 60px
+}
+.accountSummaryLines {
+    font-family: 'courier new';
+    font-size: 13px;
+    white-space: pre
+}
+.logo-visa {
+	background: url(logo_visa.jpg) no-repeat scroll
+		right top transparent;
+	float: left;
+	height: 50px;
+	margin-left: 10px;
+	margin-top: 28px;
+	width: 90px
+}
+
+.logo-amex {
+	background: url(/visahome/resources/img/logo_amex.png) no-repeat scroll
+		right top transparent;
+    float: left;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 28px;
+    width: 90px
+}
+.logo-other-bank {
+    float: left;
+    height: 46px;
+    margin-left: 29px;
+    margin-top: 10px;
+    width: 323px
+}
+.account-user-info {
+    clear: left;
+    float: left;
+    margin-left: 21px;
+    margin-top: 57px
+}
+.account-user-info label {
+    clear: both;
+    float: left;
+    font-size: 11px
+}
+.account-user-info label: first-child {
+    font-weight: 700
+}
+.detalle-liquidacion {
+    float: right;
+    margin: 3px 7px 10px 0;
+    padding: 3px 6px 7px 10px;
+    width: 300px
+}
+.detalle-liquidacion h2 {
+    padding-left: 0
+}
+.detalle-info {
+    margin-top: 10px
+}
+.detalle-info td {
+    font-size: 9px;
+    line-height: 11px;
+    padding: 0;
+    text-transform: uppercase
+}
+.detalle-totales td label {
+    text-transform: uppercase
+}
+.detalle-dates td {
+    font-weight: 700;
+    text-transform: uppercase
+}
+.detalle-dates td label {
+    font-weight: 400
+}
+.detalle-limits td {
+    font-weight: 700;
+    text-transform: uppercase
+}
+.detalle-bold {
+    color: #1930ac;
+    font-size: 12px;
+    font-weight: 700
+}
+.detalle-totales {
+    color: #1930ac;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 0
+}
+.detalle-info2 {
+    margin-top: 5px;
+    text-transform: uppercase;
+    width: 277px
+}
+.detalle-info2 td {
+    line-height: 14px;
+    padding: 0
+}
+.detalle-info2 .dif-info {
+    margin-left: 92px
+}
+.detalle-totales2 {
+    margin-top: 10px;
+    text-transform: uppercase;
+    width: 277px
+}
+.detalle-totales2 td {
+    line-height: 14px;
+    padding: 0
+}
+.detalle-totales td {
+    color: #353535;
+    font-weight: 400
+}
+.subHeaderData {
+    float: left;
+    height: 61px;
+    margin: 0 10px;
+    padding: 10px;
+    width: 95%
+}
+.subHeaderData span {
+    font-weight: bolder
+}
+.subHeaderData td {
+    padding: 0
+}
+.subHeaderData table: last-child {
+    border-top: 1px solid #ccc
+}
+.accountSummaryLines {
+    clear: both;
+    float: left;
+    padding: 10px
+}
+.landing-panel-header {
+    padding-bottom: 10px
+}
+.landing-top-panels {
+    border-bottom: 1px solid #ccc;
+    height: 180px;
+    margin-bottom: 15px
+}
+.landing-left-panel {
+    clear: left;
+    float: left;
+    width: 49%
+}
+.landing-right-panel {
+    clear: right;
+    float: right;
+    width: 49%
+}
+.payment-due-panel {
+    clear: both;
+    padding-top: 20px;
+    width: 100%
+}
+.item-value {
+    font-weight: 700;
+    text-align: right
+}
+.item-description-color {
+    color: #0023a0;
+    font: 700 12px/15px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+    text-decoration: none
+}
+.page-number {
+    float: right;
+    position: relative;
+    right: 14px;
+    top: 7px
+}
+.item-description label {
+    float: left
+}
+.home-ico a {
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 23px;
+    width: 130px
+}
+.home-link-img {
+    float: left
+}
+.home-link-txt {
+    border-left: 1px solid #fff;
+    font-size: 11px;
+    font-weight: 700;
+    margin-left: 21px;
+    margin-top: 3px;
+    padding-left: 5px;
+    text-transform: uppercase
+}
+.user-actions-menu {
+    float: right
+}
+.dropdown {
+    background: url(/visahome/resources/img/user_arrow.jpg) no-repeat scroll 6px 10px transparent;
+    border-left: 1px solid #e4e4e4;
+    cursor: pointer;
+    float: right;
+    height: 23px;
+    margin: 0;
+    padding: 0;
+    width: 23px
+}
+.confMenu .dropdown.selected,
+.dropdown: hover {
+    background: url(/visahome/resources/img/user_arrow_hover.jpg) no-repeat scroll 6px 10px #e4e4e4;
+    cursor: pointer;
+    height: 23px;
+    margin: 0;
+    padding: 0;
+    width: 23px
+}
+.login-user {
+    color: #fff;
+    cursor: pointer;
+    float: right;
+    font-weight: 700;
+    margin-right: 5px;
+    margin-top: 2px
+}
+.user-actions-menu .toggler {
+    clear: both;
+    float: right;
+    width: 24px
+}
+.user-actions-menu .toggler-efect {
+    background: none repeat scroll 0 0 #e4e4e4;
+    padding: 5px;
+    position: relative;
+    right: 127px;
+    width: 141px
+}
+.dropdown-menu li {
+    border-bottom: 1px solid #bbb;
+    cursor: pointer;
+    padding: 3px 0;
+    text-align: right
+}
+.dropdown-menu li: hover {
+    background: none repeat scroll 0 0 #bbb;
+    cursor: pointer
+}
+.dropdown-menu-item-las {
+    border: 0 none;
+    font-size: 40px
+}
+.dropdown-menu-item span {
+    font-weight: 700;
+    margin-right: 8px
+}
+li.dropdown-menu-item-last {
+    border-bottom: 0 none
+}
+.consumo-del-mes .hideShow .title-expand {
+    display: inline;
+    float: left;
+    padding: 4px 0;
+    width: 640px
+}
+.consumo-del-mes .subtotal-expand {
+    margin-left: 22px
+}
+.cuotas-pendientes .hideShow .title-expand {
+    display: inline;
+    float: left;
+    padding: 4px 0;
+    width: 700px
+}
+.autorizaciones-pendientes .hideShow .title-expand {
+    display: inline;
+    float: left;
+    padding: 4px 0;
+    width: 635px
+}
+.autorizaciones-pendientes .subtotal-expand {
+    margin-left: 22px
+}
+.cuotas-pendientes .subtotal-expand {
+    margin-left: 24px
+}
+.hideShow h3 span {
+    color: #666;
+    padding-right: 6px
+}
+.hideShow h3 a {
+    font-size: 12px!important;
+    text-decoration: none
+}
+.totalCell {
+    font-size: 12px;
+    font-weight: 600
+}
+.totals {
+    float: right;
+    font-size: 11px;
+    font-weight: 700
+}
+.subtotals {
+    clear: both;
+    float: left;
+    font-size: 12px;
+    font-weight: 700
+}
+.totals {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #ccc;
+    text-transform: uppercase
+}
+.col-3fix {
+    display: inline;
+    float: left;
+    padding: 4px 5px 4px 4px;
+    width: 91px
+}
+.rechCard-subtotal {
+    font-weight: 600;
+    margin-left: 5px
+}
+.rechCard-result-totals {
+    margin: 10px
+}
+.cuotas-pendientes .right {
+    border-left: 1px solid #f1f1f1
+}
+.ue_cardSelection {
+    border-top: 1px solid #cecece;
+    height: 276px!important;
+    margin-top: 10px;
+    overflow-x: hidden!important;
+    overflow-y: scroll!important
+}
+.card-selection-table {
+    font-size: 11px
+}
+.select-card table {
+    float: left;
+    margin-left: 12px;
+    width: 270px
+}
+.card-selection-table td {
+    padding: 0
+}
+.card-selection-table td table td {
+    border-bottom: 0 none
+}
+.card-selection-table .img-logo {
+    float: left
+}
+.card-selection-table .img-logo img {
+    margin-top: 16px
+}
+.card-selection-table .img-logo .bg-logo {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #ccc;
+    height: 65px;
+    width: 65px
+}
+.ue_cardSelection .select-card {
+    border-bottom: 1px solid #ccc;
+    padding: 5px
+}
+.ue_cardSelection .select-card: hover {
+    -moz-transition: background 200ms ease 0;
+    background: none repeat scroll 0 0 #e3e3e3;
+    cursor: pointer
+}
+.ue_cardSelection .selected {
+    background: none repeat scroll 0 0 #fff
+}
+.ue_cardSelection .selected .nombre-titular {
+    color: #fba407;
+    display: block;
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 4px
+}
+.ue_cardSelection .selected .tarjeta-tipo,
+.ue_cardSelection .selected .titular-adicional {
+    line-height: 12px
+}
+.ue_cardSelection .selected .numero-tarjeta {
+    color: #1930ac;
+    display: block;
+    line-height: 8px;
+    margin-top: 8px
+}
+.ue_cardSelection .nombre-titular {
+    display: block;
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 4px
+}
+.ue_cardSelection .tarjeta-tipo,
+.ue_cardSelection .titular-adicional {
+    line-height: 12px
+}
+.ue_cardSelection .numero-tarjeta {
+    display: block;
+    line-height: 8px;
+    margin-top: 8px
+}
+.user-contact-info {
+    border-top: 1px solid #ccc;
+    height: 266px;
+    margin-top: 10px;
+    padding: 10px 0 0 40px
+}
+.user-contact-info label {
+    display: block;
+    float: left;
+    margin-right: 5px;
+    padding-top: 5px;
+    text-align: right;
+    width: 96px
+}
+.user-contact-info .information-field {
+    clear: both;
+    width: 260px
+}
+.mail {
+    width: 230px
+}
+.user-contact-info .information-field .arroba {
+    font-size: 10px;
+    width: 13px
+}
+.terms {
+    font-size: 10px;
+    margin-top: 20px;
+    height: 150px
+}
+.terms label: last-child {
+    display: block;
+    margin-top: 10px
+}
+.input-website {
+    width: 230px
+}
+.card-selection-table .check-column {
+    width: 48px
+}
+.card-selection-table .logo-column {
+    width: 76px
+}
+.form {
+    width: 940px
+}
+.form-row label {
+    display: block;
+    margin-bottom: 5px;
+    padding-top: 5px
+}
+.area-code {
+    width: 40px
+}
+.pop-content {
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    margin-top: 10px;
+    padding: 10px 0
+}
+.pop-content label {
+    color: #676767;
+    display: block;
+    float: left;
+    font-size: 10px;
+    font-weight: 700;
+    margin-top: 3px;
+    width: 120px
+}
+.pop-content span {
+    color: #ccc;
+    font-size: 10px
+}
+.header-div-title-popup {
+    border-bottom: 1px solid #ccc;
+    clear: both;
+    margin-bottom: 10px;
+    padding-bottom: 5px
+}
+.header-div-title-popup .h3-title-popup {
+    float: left;
+    margin-left: 5px;
+    margin-top: 8px
+}
+.header-div-title-popup .modal-logo {
+    background: url(/visahome/resources/img/logo_visa_pop.jpg) no-repeat scroll right -16px transparent;
+    float: right;
+    height: 35px;
+    width: 84px
+}
+.header-div-title-popup h3 {
+    color: #1930ac;
+    font-size: 15px
+}
+.modal-body .buttonBar {
+    border-top: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px 0
+}
+.panel1 {
+    margin-bottom: 20px
+}
+.panel1 .service label,
+.panel1 .service select,
+.panel1 .service-provider label,
+.panel1 .service-provider select {
+    margin-left: 40px
+}
+.panel2 {
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    padding: 15px 0
+}
+.alta-debitos-automaticos .panel2 .panel-left {
+    float: left;
+    margin: 16px 0 0
+}
+.alta-debitos-automaticos .panel2 .panel-left span {
+    display: block;
+    padding-right: 20px
+}
+.panel2 .panel-right {
+    border-left: 1px solid #ccc;
+    float: left;
+    height: 127px;
+    margin-left: 24px;
+    padding-left: 21px
+}
+.contact-Mail {
+    clear: both
+}
+.panel2 .panel-left .contact-name {
+    clear: both;
+    float: left
+}
+.contact-Mail input,
+.contact-name input,
+.panel-left .information-field input {
+    width: 267px
+}
+.panel2 .panel-left label {
+    float: left;
+    margin-right: 5px;
+    text-align: right;
+    width: 137px
+}
+.panel2 .panel-left .tel-info .contact-area {
+    float: left
+}
+.panel2 .panel-left .tel-info .contact-area label {
+    font-size: 10px;
+    margin-right: 4px;
+    margin-top: 3px;
+    width: 100px
+}
+.panel2 .panel-left .tel-info .contact-area input {
+    width: 30px
+}
+.panel2 .panel-left .tel-info .contact-local-phone {
+    float: left
+}
+.panel2 .panel-left .tel-info .contact-local-phone label {
+    font-size: 10px;
+    margin-right: 4px;
+    margin-top: 3px;
+    width: 59px
+}
+.panel2 .panel-left .tel-info .contact-local-phone input {
+    width: 60px
+}
+.panel2 .panel-panel-left .contact-Mail,
+.panel2 .panel-panel-left .tel-info {
+    margin-left: 52px
+}
+.panel3 {
+    clear: both;
+    padding-top: 22px
+}
+.panel3 label {
+    float: left;
+    margin-left: 10px;
+    margin-right: 5px
+}
+.panel3 h3 {
+    margin-bottom: 10px
+}
+.error {
+    border: 1px solid #ccc;
+    color: #fe1a19;
+    font-size: 10px;
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    padding: 5px
+}
+.errorNoTabs {
+    border: 1px solid #ccc;
+    color: #fe1a19;
+    font-size: 10px;
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    margin-top: 45px
+}
+.error li {
+    background: url(/visahome/resources/img/deco_list_error.jpg) no-repeat scroll 0 3px #fff;
+    margin: 5px 0;
+    text-indent: 1.2em
+}
+.input-in-error {
+    background-color: #ffdada;
+    border: 1px solid red;
+    box-shadow: 0 0 3px #a20303 inset
+}
+.message-service-form {
+    margin: 15px 0
+}
+.message-service-form label {
+    display: block;
+    float: left;
+    margin-right: 5px;
+    padding-top: 5px;
+    text-align: right;
+    width: 96px
+}
+.message {
+    float: left;
+    font-weight: 700;
+    margin-left: auto;
+    margin-top: 20px
+}
+.change-pass-right {
+    height: 300px
+}
+.change-pass-advise {
+    border-right: 1px solid #cecece;
+    float: left;
+    height: 300px;
+    width: 320px
+}
+.change-pass-advise li {
+    background: url(javax.faces.resource/deco_list.jpg.xhtml?ln=img) no-repeat scroll 0 5px #f1f1f1
+}
+.change-pass-form {
+    float: right;
+    margin-top: 30px;
+    width: 260px
+}
+.change-pass-field {
+    float: left;
+    width: 200px
+}
+.change-pass-field label {
+    padding-left: 4px;
+    width: 75px
+}
+.change-pass-field input {
+    width: 180px
+}
+div.graph {
+    border: 1px dashed #dcdcdc;
+    float: left;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px
+}
+.legend {
+    margin-left: 300px;
+    position: relative;
+    width: 200px
+}
+.form-list ul {
+    color: #ff9e01
+}
+.form-list li label {
+    color: #5f5f5f
+}
+.servMensajes li label {
+    font-size: 13px
+}
+.card-selection-div {
+    border-bottom: 1px solid #cecece;
+    font-size: 11px;
+    height: 76px;
+    list-style: none outside none;
+    padding: 0
+}
+.card-selection-div table td {
+    padding: 0
+}
+.card-selection-div .select-card-img img {
+    width: 56px
+}
+.card-selection-div .select-card-img .bg-logo {
+    background: none repeat scroll 0 0 #fff;
+    height: 56px;
+    width: 56px
+}
+.card-selection-div: hover {
+    background: none repeat scroll 0 0 #e3e3e3
+}
+.card-selection-div .select-card-user-data {
+    float: right;
+    width: 250px
+}
+.card-selection-div .select-card-img {
+    margin-bottom: 6px;
+    margin-top: 6px;
+    width: 30px
+}
+.ui-widget-overlay {
+    opacity: .7
+}
+.service-left,
+.service-midd,
+.service-right {
+    float: left
+}
+.panel1 input,
+.panel1 select {
+    width: 282px
+}
+.service-right {
+    margin-left: 32px;
+    margin-top: 5px;
+    width: 282px
+}
+.service-right label {
+    display: block;
+    height: 16px;
+    margin: 0 0 7px;
+    padding: 0;
+    text-align: left
+}
+.table-grup {
+    margin-bottom: 35px
+}
+.posicion-consolidada .totals {
+    margin: 20px 0
+}
+.last-Month-head-table {
+    background: none repeat scroll 0 0 #9b9b9b;
+    border-radius: 3px 3px 0 0;
+    font-size: 13px
+}
+.lastflot {
+    float: right
+}
+.last-Month-head-table label {
+    color: #fff;
+    font-weight: 700
+}
+.ultimo-mes-fecha,
+.ultimo-mes-pago-minimo,
+.ultimo-mes-saldo,
+.ultimo-mes-total-pagos {
+    height: 77px
+}
+.ultimo-mes-pdf {
+    height: 50px
+}
+.compra,
+.extranjero-cant,
+.importe-cant,
+.pais-cant,
+.ultimo-mes-cant-importe,
+.ultimo-mes-fecha,
+.ultimo-mes-limites,
+.ultimo-mes-pago-minimo,
+.ultimo-mes-pais,
+.ultimo-mes-saldo,
+.ultimo-mes-total-pagos {
+    border-right: 1px solid #ccc
+}
+.extranjero,
+.importe-moneda,
+.limites,
+.pais,
+.ultimo-mes-moneda {
+    border-bottom: 1px solid #ccc
+}
+.ultimo-mes-fecha label,
+.ultimo-mes-pago-minimo label,
+.ultimo-mes-pdf,
+.ultimo-mes-saldo label,
+.ultimo-mes-total-pagos label {
+    display: block;
+    margin-top: 26px
+}
+.ultimo-mes-cant-importe,
+.ultimo-mes-limites {
+    float: left;
+    height: 85px;
+    width: 181px
+}
+.importe-moneda,
+.limites {
+    height: 47px
+}
+.importe-moneda label,
+.limites label {
+    display: block;
+    margin-top: 12px
+}
+.ultimo-mes-extranjero,
+.ultimo-mes-pais,
+.ultimo-mes-tipo {
+    float: left
+}
+.ultimo-mes-tipo {
+    width: 181px
+}
+.ultimo-mes-extranjero,
+.ultimo-mes-pais {
+    width: 122px
+}
+.extranjero-cant label,
+.pais-cant label {
+    display: block;
+    font-size: 9px;
+    margin-top: 3px
+}
+.resumen-cuenta .box-table {
+    border-radius: 0 0 3px 3px
+}
+.card-selected2 {
+    font-size: 11px;
+    font-weight: 700;
+    margin: 10px 0 0 10px
+}
+.card-selected2 .user-bank,
+.card-selected2 .user-card-number {
+    float: left
+}
+.card-selected2 .user-bank label {
+    color: #1930ac;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase
+}
+.card-selected {
+    font-weight: 700;
+    margin: 10px
+}
+.tab-spacer {
+    margin: 10px
+}
+.card-selected .user-card-number {
+    float: left
+}
+.card-selected .user-bank label {
+    color: #1930ac;
+    text-transform: uppercase
+}
+.periodo-culsulta h3 {
+    float: left;
+    margin-right: 30px;
+    margin-top: 6px
+}
+.periodo-culsulta select {
+    margin: 0 6px;
+    padding-left: 14px;
+    text-align: center;
+    width: 73px
+}
+.resumen-de-cuenta-anual .table-block {
+    margin-bottom: 10px
+}
+.resumen-de-cuenta-anual .content-table table {
+    margin-bottom: 0
+}
+.content-subtitle {
+    margin: 0 0 10px 10px
+}
+.pid-prompt {
+    margin-right: 5px;
+    text-align: right;
+    width: 150px
+}
+.pid-result-body {
+    min-height: 100px
+}
+.pid-wrapper span {
+    font-size: 12px
+}
+.pid-data-request {
+    margin-left: 15px
+}
+.pid-data-request label {
+    width: 160px
+}
+.pid-data-request input[type=text] {
+    width: 215px
+}
+.pid-data-request select {
+    font-size: 12px
+}
+.pid-question {
+    font-size: 11px;
+    margin-left: 15px;
+    padding-right: 15px
+}
+.pid-multivalue select {
+    font-size: 12px
+}
+.pid-input input {
+    min-width: 180px
+}
+.pid-result {
+    margin-left: 15px
+}
+.debit-details-hdr-row {
+    border: 0 none;
+    padding: 15px 0 2px
+}
+.debit-details-hdr-row .first-col {
+    padding-left: 120px;
+    padding-right: 15px;
+    text-align: right
+}
+.debit-details-hdr-row .second-col {
+    text-align: right
+}
+.debit-details-hdr-row label {
+    padding-right: 5px
+}
+.debit-details-hdr-row select {
+    width: 183px
+}
+.debits-result-hdr label {
+    font-weight: 600;
+    padding-right: 10px
+}
+.debits-result-top {
+    margin-bottom: 10px
+}
+.posicion-consolidada .subtotals {
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    margin-bottom: 30px;
+    margin-top: -1px
+}
+.bank-name {
+    color: #0224a0;
+    display: block;
+    float: left;
+    margin-top: -23px
+}
+.modal-open .dropdown-menu {
+    z-index: 2050
+}
+.modal-open .popover {
+    z-index: 2060
+}
+.modal-open .tooltip {
+    z-index: 2070
+}
+.modal-backdrop {
+    background-color: #000;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1040
+}
+.modal-backdrop.fade {
+    opacity: 0
+}
+.modal-backdrop,
+.modal-backdrop.fade.in {
+    opacity: .8
+}
+.modal {
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, .3);
+    left: 50%;
+    margin: -250px 0 0 -300px;
+    max-width: 700px;
+    overflow: auto;
+    padding-top: 30px;
+    position: fixed;
+    top: 50%;
+    z-index: 1050
+}
+.modal-header {
+    background-color: #cecece;
+    clear: both;
+    float: left;
+    height: 30px;
+    position: absolute;
+    top: 0;
+    width: 100%
+}
+.modal-body {
+    background-color: #fff;
+    max-height: 400px;
+    min-height: 64px;
+    min-width: 400px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 10px 15px
+}
+.modal-footer {
+    background-color: #cecece;
+    border-top: 1px solid #ddd;
+    margin-bottom: 0;
+    padding: 4px 5px 5px;
+    text-align: right
+}
+.modal-footer-recuser {
+    height: 23px
+}
+.modal.fade {
+    -moz-transition: opacity .3s linear 0s, top .3s ease-out 0;
+    top: -25%
+}
+.modal.fade.in {
+    top: 50%
+}
+.modal-header .close {
+    margin-top: 2px
+}
+.modal-form {
+    margin-bottom: 0
+}
+.modal-footer: after,
+.modal-footer: before {
+    display: table
+}
+.modal-footer: after {
+    clear: both
+}
+.modal-footer .btn+.btn {
+    margin-bottom: 0;
+    margin-left: 5px
+}
+.modal-footer .btn-group .btn+.btn {
+    margin-left: -1px
+}
+.modal-titlebar-close {
+    border-left: 1px solid #fff;
+    color: #fff;
+    height: 12px;
+    margin: 6px 0 0;
+    padding: 1px 1px 6px 5px;
+    position: absolute;
+    right: .3em;
+    width: 38px
+}
+.hide {
+    display: none
+}
+.show {
+    display: block
+}
+.pop-button-bar {
+    margin: 7px 0 2px;
+    text-align: center
+}
+.modal-body td {
+    float: left
+}
+.modal-body label {
+    color: #333;
+    display: block;
+    float: left;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 3px
+}
+.modal-body span {
+    color: #676767;
+    font-size: 13px
+}
+.observations {
+    color: #353535;
+    font-size: 11px;
+    padding: 15px
+}
+.observations label {
+    font-weight: 600
+}
+.internet-card .first-col {
+    width: 37%
+}
+.internet-card .second-col {
+    width: 62%
+}
+.email-send-info {
+    float: right;
+    width: 290px
+}
+.card-selector {
+    border-bottom: 1px solid #cecece;
+    color: #000;
+    padding: 5px
+}
+.card-selector: hover {
+    background: none repeat scroll 0 0 #f1f1f1;
+    cursor: pointer
+}
+.left-checkbox label {
+    float: right
+}
+.selected-card {
+    padding: 0
+}
+.modal-header h3 {
+    color: #fff;
+    margin: 6px;
+    text-transform: none
+}
+.internet-card .first-col {
+    border-right: 1px solid #ccc;
+    float: left;
+    padding: 10px 0
+}
+.internet-card .second-col {
+    float: right;
+    padding: 10px 0
+}
+.internet-card .second-col .col-left {
+    float: left
+}
+.internet-card .second-col .col-left .icard-inner-row label {
+    float: right;
+    padding: 5px;
+    text-align: center;
+    width: 11px
+}
+.internet-card .second-col .col-left .icard-inner-row input {
+    width: 90px
+}
+.internet-card .second-col .col-right {
+    float: right;
+    padding: 5px;
+    width: 174px
+}
+.internet-card .second-col .col-right p {
+    font-size: 10px;
+    line-height: 12px
+}
+.internet-card .email-send-info {
+    float: left;
+    margin-left: 10px;
+    margin-top: 25px;
+    width: 307px
+}
+.internet-card .content-table {
+    padding: 0 10px
+}
+.internet-card h3 {
+    padding: 4px 0 10px 7px
+}
+.internet-card .box-table {
+    margin-bottom: 20px
+}
+.icon-pdf-print img {
+    cursor: pointer;
+    margin-left: 6px
+}
+.codeDisplay,
+.codeDisplay-no {
+    float: right;
+    margin-top: 23px;
+    padding: 17px 30px;
+    width: 200px
+}
+.codeDisplay h2,
+.codeDisplay-no {
+    margin-top: 9px
+}
+.phoneCode-number {
+    color: #646464;
+    font-size: 37px
+}
+.telecodigo-info {
+    margin-top: 15px;
+    padding-right: 21px
+}
+.change-pass li,
+.telecodigo-info li {
+    background: url(/visahome/resources/img/deco_list.jpg) no-repeat scroll 0 5px transparent;
+    font-family: Arial, Helvetica, Tahoma, Verdana, sans-serif;
+    font-size: 12px;
+    line-height: 17px;
+    margin-bottom: 13px;
+    text-indent: 1.2em
+}
+.codeDisplay-no {
+    font-family: Arial;
+    font-size: small;
+    padding: 10px;
+    text-align: center;
+    width: 255px
+}
+.codeDisplay-msj1 {
+    clear: both;
+    color: orange;
+    margin: 0 32px;
+    text-align: center
+}
+.codeDisplay-msj2 {
+    clear: both;
+    margin: 10px 13px 0;
+    text-align: center
+}
+.pieChart {
+    height: 550px;
+    width: 550px
+}
+.tel-info {
+    clear: both
+}
+.banner-right {
+    float: right
+}
+.contact-page h2 {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 15px
+}
+.contact-page-group {
+    margin-bottom: 10px;
+    padding: 0 0 0 10px
+}
+.contact-page-group .copete-top {
+    margin-bottom: 5px
+}
+.contact-field {
+    height: 40px
+}
+.contact-field-label {
+    color: #ff9e01;
+    font-weight: 600
+}
+.contact-field-sub-label {
+    font-weight: 400;
+    margin-top: -5px
+}
+.contact-field-field {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    margin-left: 10px
+}
+.contact-field-second-field {
+    margin-left: 0!important;
+    width: 288px!important
+}
+.legal-message p {
+    font-size: 11px;
+    padding: 5px
+}
+.contact-visa .item-form {
+    display: block;
+    float: left;
+    margin-top: 5px;
+    width: 75px
+}
+.contact-visa select {
+    width: 198px
+}
+.contact-visa textarea {
+    height: 100px;
+    width: 400px;
+    display: block;
+}
+.contact-visa input {
+    width: 188px
+}
+.contact-visa {
+    margin-left: 200px;
+    margin-top: 20px
+}
+.contact-visa .group-form {
+    clear: both;
+    margin: 3px 0
+}
+.faq-category {
+    margin-top: 20px
+}
+.faq-category h3 {
+    margin-bottom: -1px;
+    padding-left: 26px
+}
+.outer #icon {
+    background: url(/visahome/resources/img/bg_select.jpg) repeat-x scroll 0 0 transparent;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+    float: left;
+    height: 20px;
+    margin-right: 7px;
+    width: 20px
+}
+.outer.closed .icon_arrow {
+    background: url(/visahome/resources/img/bg_select_arrow.jpg) no-repeat scroll 0 0 transparent;
+    height: 9px;
+    margin: 6px 0 0 6px;
+    width: 9px
+}
+.outer.open .icon_arrow {
+    background: url(/visahome/resources/img/bg_select_arrow2.jpg) no-repeat scroll 0 0 transparent;
+    height: 9px;
+    margin: 6px 0 0 6px;
+    width: 9px
+}
+.faq-category a {
+    color: #1930ac
+}
+.faq-category .outer {
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    float: left;
+    margin-bottom: -1px;
+    padding: 4px 0 1px 5px;
+    width: 100%
+}
+.faq-category .outer_question {
+    clear: both
+}
+.outer_question #icon {
+    background: url(/visahome/resources/img/deco_list.jpg) no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 10px;
+    margin: 6px 0 0 9px;
+    width: 10px
+}
+.faq-list {
+    padding: 17px 0
+}
+.faq-category .hideShow h3 a {
+    margin: 0;
+    padding-left: 0
+}
+.outer_question h3 {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Tahoma, sans-serif;
+    text-transform: none
+}
+.outer_question h3 a {
+    color: #666
+}
+.faq-list .faq-answer {
+    margin-left: 11px;
+    padding: 12px 0
+}
+.form-label {
+    margin-right: 5px;
+    margin-top: 0!important
+}
+.modal-content {
+    padding-left: 5px
+}
+.user-data-change {
+    color: #666;
+    border-top: 1px solid #ccc;
+    clear: both;
+    float: left;
+    margin-top: 18px;
+    padding-left: 14px;
+    padding-top: 6px;
+    width: 98%
+}
+.user-data-change label {
+    margin-right: 114px
+}
+.mail-name {
+    float: none
+}
+.no_data_found {
+    float: left;
+    font-weight: 600;
+    text-align: center;
+    width: 100%
+}
+.error_style1 {
+    height: 400px;
+    padding-top: 100px
+}
+.error_style2 {
+    background: none repeat scroll 0 0 #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0 3px 4px #000;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    width: 550px
+}
+.error_style3 {
+    color: red!important;
+    font-size: small;
+    font-weight: 700;
+    margin: auto
+}
+.error_style4 {
+    margin-top: 10px
+}
+.error_page {
+    background: none repeat scroll 0 0 transparent
+}
+.error_page .box-table {
+    left: 50%;
+    margin: -100px 0 0 -250px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 500px;
+    z-index: 99
+}
+.footer-table a.button {
+    float: right
+}
+.date_selector {
+    width: 100px!important
+}
+.pid-error {
+    color: red!important;
+    font-size: 13px!important
+}
+.svm-box-class {
+    margin-left: 4px
+}
+.pagos-resumen {
+    padding: 10px 0 0
+}
+.pago-resumen-legal {
+    color: #aaa;
+    font-family: 'Lucida Grande', Lucida, Verdana, sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 13px;
+    padding: 14px
+}
+.divImagePay {
+    float: left;
+    text-align: center;
+    width: 50%
+}
+.buttonBar.clearfix.goButtons {
+    margin-top: 9px
+}
+.goButtons span {
+    float: none!important;
+    margin: auto
+}
+.divImagePay img {
+    border-radius: 10px;
+    box-shadow: 0 0 4px #999
+}
+.contContentClass,
+.payStatementTableClass {
+    margin-top: 55px
+}
+.est_detail {
+    margin-right: 10px;
+    margin-top: 0!important;
+    text-align: right;
+    width: 67px;
+    float: left
+}
+.descarga-resumen {
+    padding-top: 3px;
+    float: left;
+    padding-right: 3px
+}
+.descarga-resumen input {
+    border: 0;
+    float: right
+}
+.datepicker {
+    width: 60px;
+    padding: 5px 10px;
+    margin: 0 10px
+}
+.ui-state-default {
+    color: #333!important
+}
+.ui-datepicker-today {
+    background: #fa3333!important
+}
+.ui-datepicker-current-day {
+    background: #999!important
+}
+.ui-datepicker .ui-datepicker-month,
+.ui-datepicker .ui-datepicker-year {
+    padding: 0;
+    margin: 0 5px;
+    width: 45%!important
+}
+.tr_panel {
+    float: left;
+    margin-left: 10px;
+    max-height: 305px;
+    width: 252px
+}
+.tr_cardSelection {
+    max-height: 188px;
+    overflow-y: auto
+}
+.tr_country_select {
+    max-height: 250px;
+    width: 240px;
+    margin: 0 5px;
+    color: #555;
+    background-color: #9b9b9b
+}
+.tr_cardSelection .select-card table {
+    float: left;
+    margin-left: 12px;
+    width: 150px
+}
+.heading {
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    display: block;
+    width: 100%;
+    font-weight: 600
+}
+.input-large {
+    width: 200px
+}
+.select2-search-field {
+    width: 200px;
+    height: 100px
+}
+.ms-result {
+    float: left;
+    box-sizing: border-box;
+    color: #333;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0;
+    vertical-align: middle;
+    width: 220px;
+    padding: 0 1px;
+    max-height: 250px;
+    overflow-y: auto
+}
+.ms-result-tall {
+    border: 1px solid #9b9b9b;
+    height: 220px;
+    overflow: auto;
+    padding: 10px;
+    background-color: #cecece
+}
+.ms-ul {
+    height: auto!important;
+    margin: 0;
+    padding: 0;
+    cursor: text;
+    overflow: hidden
+}
+.ms-li {
+    float: left;
+    font-size: 12px;
+    list-style: none;
+    padding: 3px 5px;
+    margin: 3px 0 3px 5px;
+    position: relative;
+    line-height: 13px;
+    color: #333;
+    cursor: default;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 0 2px #fff inset, 0 1px 0 rgba(0, 0, 0, .05);
+    box-shadow: 0 0 2px #fff inset, 0 1px 0 rgba(0, 0, 0, .05);
+    background-clip: padding-box;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: #e4e4e4;
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#eee', endColorstr='#f4f4f4', GradientType=0)
+}
+.ms-choice {
+    line-height: 13px;
+    color: #333;
+    cursor: default;
+    display: block
+}
+.ms-unselect {
+    left: 4px;
+    display: block;
+    width: 12px;
+    height: 13px;
+    position: absolute;
+    top: 3px;
+    font-size: 1px;
+    outline: 0;
+    background: url(/visahome/resources/img/select2.png) right top no-repeat
+}
+.ms-li-unselect {
+    padding: 3px 5px 3px 18px
+}
+.country-select {
+    float: left;
+    border: 1px solid #9b9b9b;
+    height: 220px;
+    overflow: auto;
+    width: 220px;
+    padding: 0 10px;
+    margin-right: 20px;
+    background-color: #cecece
+}
+.regions li {
+    list-style: none;
+    font-weight: bolder;
+    line-height: 30px;
+    color: #555
+}
+.regions ul {
+    margin-left: 0;
+    padding-left: 0
+}
+.countries li {
+    list-style: none;
+    color: #555
+}
+.countries li: hover {
+    background-color: #ff9e01;
+    color: #fff;
+    border: 1px solid #ff9e01;
+    border-radius: 3px;
+    cursor: pointer
+}
+.countries li>a {
+    color: #555
+}
+.countries li>a: hover {
+    color: #555;
+    cursor: pointer;
+    text-decoration: none
+}
+.wide-popup {
+    width: 600px
+}
+.di-submenu ul {
+    height: auto;
+    font-size: 12px
+}
+.di-submenu ul.dropit-submenu {
+    background-color: #686868
+}
+.di-submenu ul.dropit-submenu a {
+    display: block;
+    color: #fff;
+    padding: 0 18px
+}
+.di-submenu ul.dropit-submenu a: hover {
+    color: #ffa000;
+    text-decoration: none
+}
+.dropit-submenu {
+    width: auto!important
+}
+.dropit-submenu li {
+    padding: 0
+}
+.di-submenu ul.dropit-submenu a {
+    text-align: left
+}
+.trip_cardDisplay .select-card {
+    border-bottom: 1px solid #ccc;
+    padding: 5px
+}
+.trip_cardDisplay .select-card: hover {
+    -moz-transition: background 200ms ease 0;
+    background: none repeat scroll 0 0 #e3e3e3;
+    cursor: pointer
+}
+.trip_cardDisplay .inverse.select-card: hover {
+    -moz-transition: background 200ms ease 0;
+    background: none repeat scroll 0 0 #fff;
+    cursor: pointer
+}
+.trip_cardDisplay .user-bank {
+    color: #1930ac
+}
+.trip_cardDisplay .selected {
+    background: none repeat scroll 0 0 #fff
+}
+.trip_cardDisplay .selected .nombre-titular {
+    color: #fba407;
+    display: block;
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 4px
+}
+.trip_cardDisplay .selected .tarjeta-tipo,
+.trip_cardDisplay .selected .titular-adicional {
+    line-height: 12px
+}
+.trip_cardDisplay .selected .numero-tarjeta {
+    color: #1930ac;
+    display: block;
+    line-height: 8px;
+    margin-top: 8px
+}
+.trip-selected .card {
+    color: #1930ac
+}
+.trip-selected label {
+    color: #1930ac
+}
+.trip-selected .bank {
+    color: #fba407!important
+}
+.card-selection-table .selected .img-logo .bg-logo {
+    border: 1px solid #fba407
+}
+.trip_cardDisplay .nombre-titular {
+    display: block;
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 4px
+}
+.trip_cardDisplay .tarjeta-tipo,
+.trip_cardDisplay .titular-adicional {
+    line-height: 12px
+}
+.trip_cardDisplay .numero-tarjeta {
+    line-height: 8px;
+    margin-top: 8px
+}
+.trip_cardDisplay .select-card table {
+    width: 140px
+}
+.trip-list .ms-li {
+    border: 0
+}
+.submenu ul.consultar-submenu li,
+.submenu ul.servicios-submenu li {
+    float: left;
+    width: 150px
+}
+ul.dropdown.dropit-submenu {
+    background: #5E5B5B;
+    border: 0;
+    top: 23px;
+    width: 200px!important;
+    left: 3px;
+    height: auto;
+    box-shadow: 0 5px 3px -3px #353535;
+    border-radius: 0 0 3px 3px;
+    padding: 0 0 5px
+}
+ul.dropdown.dropit-submenu li {
+    width: 100%;
+    margin: 5px 0 0
+}
+.message_box {
+    margin-bottom: 15px;
+    color: red;
+    font-weight: 600
+}
+.tr_inner_panel {
+    max-height: 250px;
+    overflow-x: hidden;
+    overflow-y: auto
+}
+.buttonDisabled {
+    background: none repeat scroll 0 0 #6B5B42;
+    border: 0 solid #ff9e01;
+    border-radius: 3px 3px 3px 3px;
+    color: #fff;
+    cursor: no-drop;
+    font-size: 11px;
+    font-weight: 700;
+    margin: 3px;
+    min-width: 94px;
+    padding: 3px 10px;
+    text-align: center;
+    text-transform: uppercase
+}
+#blockedUser h2 {
+    text-transform: none;
+    padding: 0;
+    padding-top: 10px;
+    font-weight: 800
+}
+#blockedUser li {
+    color: #333;
+    font-size: 11px;
+    font-weight: 700;
+    padding-left: 10px
+}
+#blockedUser p {
+    color: #676767;
+    font-size: 14px
+}
+#blockedUser p.moreInfo {
+    padding-top: 7px;
+    padding-left: 10px;
+    font-size: 12px
+}
+div.login-form span.login-error {
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block
+}
+.input-mini {
+    width: 60px
+}
+.input-small {
+    width: 90px
+}
+.input-medium {
+    width: 150px
+}
+.input-xlarge {
+    width: 270px
+}
+.input-xxlarge {
+    width: 530px
+}
+.label-right {
+    display: block;
+    margin-right: 5px;
+    padding-top: 5px;
+    width: 137px;
+    text-align: right;
+    float: left
+}
+.label-right-caa {
+    display: block;
+    margin-right: 5px;
+    padding-top: 5px;
+    width: 200px;
+    text-align: right;
+    float: left
+}
+.input-error {
+    padding-left: 5px;
+    color: red
+}
+.success_message {
+    padding: 10px, border: 1px solid #5f5f5f;
+    color: #5f5f5f!important;
+    font-weight: 700;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+.list {
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: disc;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    color: #5f5f5f;
+    font-size: 11px;
+    font-style: italic;
+    font-weight: 50;
+    text-transform: none
+}
+.caa-field {
+    margin: 10px 0
+}
+.ha-card table {
+    width: 250px
+}
+.pid-modal-body {
+    max-height: 500px
+}
+#changeMailTabBar\:messages li:nth-of-type(n+2),
+#changePassTabBar\:messages li:nth-of-type(n+2) {
+    display: none
+}
+.texto-editar-viaje {
+    width: 81%;
+    float: left;
+    margin-top: 5px;
+    color: color: #1930ac;
+    font-weight: 600;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Tahoma, sans-serif
+}
+.contenedor-editar-viaje {
+    width: 100%;
+    float: left;
+    margin-bottom: 10px
+}
+.imagen-login {
+    background: url(nuevo-usuario.jpg) no-repeat scroll center top transparent;
+    height: 296px;
+    margin-left: 10px;
+    margin-top: 17px;
+    width: 300px;
+    cursor: pointer;
+    border: none
+}
+.imagen-login_nuevo {
+    background: url(/visahome/resources/img/destacado-login.jpg) no-repeat scroll center top transparent;
+    height: 296px;
+    width: 300px;
+    cursor: pointer;
+    border: none
+}
+.bx-wrapper .bx-viewport {
+    -moz-box-shadow: 0 0 0;
+    -webkit-box-shadow: 0 0 0;
+    box-shadow: 0 0 0;
+    border: 0
+}
+.bx-wrapper {
+    margin-left: 15px!important
+}
+.error-popup {
+    margin: 5%;
+    text-align: center;
+    vertical-align: middle;
+}
+.ultimosResumenes {
+    max-height: 400px;
+    width: 933px;
+    overflow: auto;
+}
+.planVpopUp {
+    max-width=400px;
+}
+.planVpopUpTexto {
+    font-family: Sans-serif;
+    color: #1c226e;
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+.mensajesRegistro {
+    color: #1c226e;
+    font-size: small;
+    font-weight: 700;
+    vertical-align: middle;
+    margin: auto;
+    display: block;
+    float: left;
+}
+.lineInputText {
+    float: left;
+    margin-right: 3em;
+}
+#pin-cards-content li {
+    display: list-item;
+    border-bottom: 1px solid #e1e1e1;
+    padding: 2px 5px
+}
+#pin-cards-content li:last-child {
+    border-bottom: none
+}
+#pin-cards-content .card-item.disabled {
+    background-color: #e0e0e0;
+    color: gray
+}
+#pin-cards-content .card-item.disabled .card-numero-tarjeta,
+#pin-cards-content .card-item.disabled .titular,
+#pin-cards-content .card-item.disabled .card-apellido-nombre {
+    color: inherit
+}
+.pin-generated-info {
+    font-size: 10px;
+    background-color: grey;
+    border-radius: 7px;
+    color: #fff;
+    padding: 2px;
+    text-align: center;
+	display: block;
+    float: left;
+}
+.inputFormContacto {
+    display: block;
+}
+.contact-visa .lengtInputTarjeta {
+    width: 25px;
+    margin-right: 1em;
+}
+.contact-visa .item-form-dinamict {
+    display: block;
+    float: left;
+    margin-top: 5px;
+    width: 200px;
+    text-align: right;
+    margin-right: 20px;
+}
+.contact-visa .item-form-dinamict-right {
+    display: table;
+    margin-top: 5px;
+    text-align: left;
+    margin-right: 20px;
+}
+.contact-visa .item-form-dinamict-combo {
+    display: block;
+    margin-top: 5px;
+    text-align: left;
+    margin-right: 20px;
+}
+.aclaracion {
+    color: #5f5f5f;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 400;
+    text-transform: none;
+}
+.dt-label {
+    width: 250px;
+}
+.dt-table {
+    color: #1930ac
+}
+.dt-table td {
+    padding: 15px;
+    display: block;
+    border-bottom: 1px solid;
+    border-color: #cecece
+}
+.dt-table td:last-child {
+    border-bottom: 0 none
+}
+.dt-table input {
+    float: right
+}
+.dt-submit-form label,
+.dt-table label {
+    font-weight: 700;
+    font-size: 11px;
+    font-family: Arial, Helvetica, Tahoma, Verdana, Sans-serif
+}
+.dt-cards .card-item {
+    border-bottom: 1px solid;
+    border-bottom-color: #cecece;
+    margin-bottom: 5px;
+    display: -moz-grid-group;
+}
+
+.nicknameModalContent {
+	margin-left: 5px;
+}
+
+.nicknameModalContent label {
+	width: 30%;
+}
+
+.nicknameModalContent input[type="text"], .nicknameModalContent input[type="password"]  {
+	width: 50%;
+}
+
+.nicknameModalContent select {
+	width: 52%;
+}
+.dt-cards .card-item:last-child {
+    border-bottom: 0 none;
+    margin-bottom: 0
+}
+.dt-cards .card-info {
+    text-align: left;
+    clear: left;
+    float: left
+}
+.dt-cards input[type=checkbox] {
+    margin-top: 15px
+}
+.dt-submit-form .datepicker {
+    padding: 4px;
+    margin: 0
+}
+.dt-icon-trash {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    line-height: 14px;
+    vertical-align: text-top;
+    background-image: url(glyphicons-halflings.png);
+    background-repeat: no-repeat;
+    background-position: -456px 0
+}
+.dt-user {
+    margin-left: 15px;
+    margin-bottom: 10px
+}
+.error-error {
+    border: 1px solid #ccc;
+    color: #fe1a19;
+    font-size: 10px;
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    padding: 5px
+}
+.popupDebito span {
+  color: #1930ac;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.user-info-amex {
+	background: url(/visahome/resources/img/logo_amex.png) no-repeat scroll
+		right top transparent;
+	border: 0 solid #ccc;
+	float: right;
+	height: 62px;
+	margin-top: 24px
+}
+
+.tooltip {
+  position: absolute;
+  z-index: 1070;
+  display: block;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: left;
+  text-align: start;
+  text-decoration: none;
+  text-shadow: none;
+  text-transform: none;
+  letter-spacing: normal;
+  word-break: normal;
+  word-spacing: normal;
+  word-wrap: normal;
+  white-space: normal;
+  filter: alpha(opacity=0);
+  opacity: 0;
+
+  line-break: auto;
+}
+.tooltip.in {
+  filter: alpha(opacity=90);
+  opacity: .9;
+}
+.tooltip.top {
+  padding: 5px 0;
+  margin-top: -3px;
+}
+.tooltip.right {
+  padding: 0 5px;
+  margin-left: 3px;
+}
+.tooltip.bottom {
+  padding: 5px 0;
+  margin-top: 3px;
+}
+.tooltip.left {
+  padding: 0 5px;
+  margin-left: -3px;
+}
+.tooltip-inner {
+  max-width: 200px;
+  padding: 3px 8px;
+  color: #fff;
+  text-align: center;
+  background-color: #000;
+  border-radius: 4px;
+}
+.tooltip-arrow {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+}
+.tooltip.top .tooltip-arrow {
+  bottom: 0;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px 5px 0;
+  border-top-color: #000;
+}
+.tooltip.top-left .tooltip-arrow {
+  right: 5px;
+  bottom: 0;
+  margin-bottom: -5px;
+  border-width: 5px 5px 0;
+  border-top-color: #000;
+}
+.tooltip.top-right .tooltip-arrow {
+  bottom: 0;
+  left: 5px;
+  margin-bottom: -5px;
+  border-width: 5px 5px 0;
+  border-top-color: #000;
+}
+.tooltip.right .tooltip-arrow {
+  top: 50%;
+  left: 0;
+  margin-top: -5px;
+  border-width: 5px 5px 5px 0;
+  border-right-color: #000;
+}
+.tooltip.left .tooltip-arrow {
+  top: 50%;
+  right: 0;
+  margin-top: -5px;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #000;
+}
+.tooltip.bottom .tooltip-arrow {
+  top: 0;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 0 5px 5px;
+  border-bottom-color: #000;
+}
+.tooltip.bottom-left .tooltip-arrow {
+  top: 0;
+  right: 5px;
+  margin-top: -5px;
+  border-width: 0 5px 5px;
+  border-bottom-color: #000;
+}
+.tooltip.bottom-right .tooltip-arrow {
+  top: 0;
+  left: 5px;
+  margin-top: -5px;
+  border-width: 0 5px 5px;
+  border-bottom-color: #000;
+}
+
+#loginFrm .login-pregunta {
+	margin: 3px;
+}
+
+#loginFrm .login-pregunta.left {
+	margin: 3px 3px 10px 3px;
+}
+
+.new-form-field label {
+	display: block;
+}
+
+.new-form-field input[type="password"], .new-form-field  input[type="text"] {
+	width: 200px;
+}
+
+.no-margin {
+	margin: 0 !important;
+}
+
+.left {
+	float: left !important;
+}
+
+.newFormContent {
+	margin-bottom: 15px;
+}
+
+.new-form-rules li {
+	margin-top: 10px;
+}
+
+.new-form-rules h2 {
+	padding: 5px 0;
+}
+
+.new-form-rules h3 {
+	text-transform: none;
+}
+
+@media (min-height: 600px) and (max-height: 800px) {
+	.login-content #pwdChange\:form {
+		min-height: 520px;
+	}
+}
+
+.login-agro-popup {
+	padding: 10px 20px;
+}
+
+.login-agro-popup li {
+	padding: 5px 0;
+	list-style: inside;
+}
+
+.login-agro-popup-banner {
+	background:url(/visahome/resources/img/banner-agro.gif) no-repeat scroll center top transparent;
+	height:100px;
+	margin: 5px auto;
+	width:549px;
+	border:none;
+}
+
+.tcQuestions {
+	margin-top: 20px;
+}
+
+.card-reclamos {
+	margin-left: 8px;
+	padding: 5px 0 5px 5px;
+	color: inherit;
+}
+
+.card-reclamos:hover {
+	background: rgb(0,0,0,0.05);
+	opacity: 0.7;
+}
+
+.errorReclamo {
+	color: red;
+	float: left;
+	font-weight: 600;
+	margin: 10px 30px;
+	text-align: left;
+	width: 400px;
+}
+
+.divReclamo label {
+	display: block;
+	font-weight: 700;
+	padding: 5px 0;
+}
+
+.divReclamo input {
+	margin: 0;
+}
+
+.head-descarga-cuotas span {
+	font-size: 90%;
+}
+
+.descarga-cuotas .hideShow .title-expand {
+    display: inline;
+    float: left;
+    padding: 4px 0;
+    width: 725px
+}
+
+.row-disabled, .row-disabled a {
+	background-color: #fafafa !important;
+	color: gray;
+	cursor: not-allowed;
+}
+
+.lastTrxGiftCard {
+    max-height: 250px;
+    width: 933px;
+    overflow: auto;
+}
+
+.termsPopup #termScroll {
+	max-height: 300px;
+}
